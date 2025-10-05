@@ -86,8 +86,9 @@ st.markdown("""
 - **Input Size:** 128 × 128 RGB images  
 - **Output Classes:** Plastic Waste / E-Waste  
 - **Frameworks:** TensorFlow, Keras, Streamlit  
-- **Developer:** Your Name Here  
+- **Developer:** KAVYASHRI J M  
 
 💡 Tip: Use **well-lit, clear images** for better classification accuracy.
 """)
+
 
